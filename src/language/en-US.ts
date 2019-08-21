@@ -30,7 +30,7 @@ export const en_US = {
     publish: 'Publish',
     anonymous_user: 'Anonymous user',
     no_comment_yet: 'No comment yet',
-    successful_operation: 'Request Succeed',
+    successful_operation: 'Request successful',
     operation_failed: 'Request Failed',
 
     // vote
@@ -49,7 +49,7 @@ export const en_US = {
     enter_the_date_for_example: 'Enter the date ,for example：',
     fee: 'Fee',
     the_default_is: 'Default',
-    the_more_you_set_the_cost_the_higher_the_processing_priority: 'The more you cost ,the higher the processing priority. (1000000 microxem = 1.0xem)',
+    the_more_you_set_the_cost_the_higher_the_processing_priority: 'Increasing the fee makes the transaction processing quicker.(1000000 microxem = 1.0xem)',
     create: 'Create',
     all: 'All',
     processing: 'Processing',
@@ -85,7 +85,7 @@ export const en_US = {
     confirmed_transaction: 'Confirmed',
     unconfirmed_transaction: 'Unconfirmed',
     total: 'Total:',
-    data: ' ',
+    data: 'Data',
     no_unconfirmed_transactions: 'No unconfirmed transactions',
     no_confirmed_transactions: 'No confirmed transactions',
 
@@ -143,7 +143,7 @@ export const en_US = {
     QR_code_generation_failed: 'QR code generation failed',
 
     //monitor-remote
-    Remote_title_recipt: 'Accumulated delegated harvest income',
+    Remote_title_recipt: 'Accumulated delegated Harvesting income',
     Remote_state: 'Current state',
     Remote_pubulic_pik: 'Remote public key',
     Remote_question: 'Related issues',
@@ -157,7 +157,7 @@ export const en_US = {
     remote_list_col3: 'Reward',
     remote_list_col4: 'Time',
     remote_no_data: 'No data',
-    remote_repaly: 'Delegated harvest',
+    remote_repaly: 'Delegated Harvesting',
     remote_modal_pul: 'Remote public key',
     remote_modal_price: 'Cost',
     reomte_modal_pass: 'password',
@@ -165,7 +165,7 @@ export const en_US = {
     remote_modal_cancel: 'cancel',
     remote_modal_place1: 'Please enter or paste a remote public key',
     remote_modal_place2: 'Please enter your wallet password',
-
+    receive:'Receive',
     //monitor-relogin
     welcome_back_to_the_CATAPULT_beta: 'WELCOME BACK TO THE CATAPULT BETA',
     welcome_to_the_CATAPULT_beta: 'WELCOME TO USE THE CATAPULT BETA',
