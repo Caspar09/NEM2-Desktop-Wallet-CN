@@ -30,7 +30,7 @@ export const en_US = {
     publish: 'Publish',
     anonymous_user: 'Anonymous user',
     no_comment_yet: 'No comment yet',
-    successful_operation: 'Request successful',
+    successful_operation: 'Request succeeded',
     operation_failed: 'Request Failed',
 
     // vote
@@ -143,7 +143,7 @@ export const en_US = {
     QR_code_generation_failed: 'QR code generation failed',
 
     //monitor-remote
-    Remote_title_recipt: 'Accumulated delegated Harvesting income',
+    Remote_title_recipt: 'Accumulated delegated harvesting income',
     Remote_state: 'Current state',
     Remote_pubulic_pik: 'Remote public key',
     Remote_question: 'Related issues',
@@ -157,7 +157,7 @@ export const en_US = {
     remote_list_col3: 'Reward',
     remote_list_col4: 'Time',
     remote_no_data: 'No data',
-    remote_repaly: 'Delegated Harvesting',
+    remote_repaly: 'Delegated harvesting',
     remote_modal_pul: 'Remote public key',
     remote_modal_price: 'Cost',
     reomte_modal_pass: 'password',
