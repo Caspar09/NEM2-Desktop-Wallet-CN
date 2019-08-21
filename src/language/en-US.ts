@@ -99,7 +99,7 @@ export const en_US = {
     no_such_currency_transaction_record_yet: 'No trading record',
     price: 'Price',
     quantity: 'Quantity',
-
+	sub_namespace: 'sub namespace',
     //monitpr-panel
     wallet_balance: 'Balance',
     asset_setting: 'Asset setting',
@@ -361,7 +361,7 @@ export const en_US = {
     offline_storage: 'Offline storage',
     keep_it_in_a_safe_place_on_the_isolated_network: 'Keep it in a safe place on the isolated network. Do not share and store mnemonics in a networked environment, such as emails, photo albums, social network, messager, etc.',
     please_safely_back_up_the_Keystore: 'Please safely back up the Keystore',
-    do_not_save_to_email_notepad_web_chat_etc_It_is_very_dangerous_Please_don_use_network_transmission: 'Don't save to email, notepad, web, chat, etc. It's very dangerous. Please don't use network transmission.',
+    do_not_save_to_email_notepad_web_chat_etc_It_is_very_dangerous_Please_don_use_network_transmission: 'Don\'t save to email, notepad, web, chat, etc. It's very dangerous. Please don't use network transmission.',
     do_not_use_network_transmission: 'Do not use network transmission',
     Do_not_transmit_through_network_tools_once_acquired_by_hackers_will_cause_irreparable_asset_losses_It_is_recommended_that_the_offline_device_be_transmitted_by_scanning_the_QR_code: 'Do not transmit through network tools, once acquired by hackers will cause irreparable asset losses. It is recommended that the offline device be transmitted by scanning the QR code.',
     password_management_tool_save: 'Password management tool save',
@@ -410,7 +410,7 @@ export const en_US = {
     //Backup mnemonic  created
     Backup_mnemonics_can_effectively_back_up_and_restore_your_account: 'Backup mnemonics can effectively back up and restore your account',
     tips: 'tips',
-    Do_not_reveal_the_mnemonic_you_backed_up_Anyone_with_a_mnemonic_can_always_own_the_wallet: 'Don't reveal the mnemonic you backed up. Anyone with a mnemonic can always own the wallet.',
+    Do_not_reveal_the_mnemonic_you_backed_up_Anyone_with_a_mnemonic_can_always_own_the_wallet: 'Don\'t reveal the mnemonic you backed up. Anyone with a mnemonic can always own the wallet.',
     Write_your_mnemonic_on_a_piece_of_paper_If_you_want_to_be_safer_you_can_write_on_multiple_sheets_of_paper_and_save_the_backup_in_multiple_locations_such_as_an_externally_encrypted_hard_drive_or_storage_media: 'Write your mnemonic on a piece of paper. If you want to be safer, you can write on multiple sheets of paper and save the backup in multiple locations (such as an externally encrypted hard drive or storage media).',
     display_mnemonic: 'Display mnemonic',
     previous: 'Previous',
