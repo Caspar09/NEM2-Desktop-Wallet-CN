@@ -30,7 +30,7 @@ export const en_US = {
     publish: 'Publish',
     anonymous_user: 'Anonymous user',
     no_comment_yet: 'No comment yet',
-    successful_operation: 'Request Succeed',
+    successful_operation: 'Request Succeeded',
     operation_failed: 'Request Failed',
 
     // vote
@@ -49,7 +49,7 @@ export const en_US = {
     enter_the_date_for_example: 'Enter the date ,for example：',
     fee: 'Fee',
     the_default_is: 'Default',
-    the_more_you_set_the_cost_the_higher_the_processing_priority: 'The more you cost ,the higher the processing priority. (1000000 microxem = 1.0xem)',
+    the_more_you_set_the_cost_the_higher_the_processing_priority: 'Increasing the fee will makes the transaction processing quicker. (1000000 microxem = 1.0xem)',
     create: 'Create',
     all: 'All',
     processing: 'Processing',
@@ -143,7 +143,7 @@ export const en_US = {
     QR_code_generation_failed: 'QR code generation failed',
 
     //monitor-remote
-    Remote_title_recipt: 'Accumulated delegated harvest income',
+    Remote_title_recipt: 'Accumulated delegated harvesting income',
     Remote_state: 'Current state',
     Remote_pubulic_pik: 'Remote public key',
     Remote_question: 'Related issues',
@@ -157,7 +157,8 @@ export const en_US = {
     remote_list_col3: 'Reward',
     remote_list_col4: 'Time',
     remote_no_data: 'No data',
-    remote_repaly: 'Delegated harvest',
+    remote_repaly: 'Delegated harvesting',
+	receive:'Receive'
     remote_modal_pul: 'Remote public key',
     remote_modal_price: 'Cost',
     reomte_modal_pass: 'password',
@@ -361,7 +362,7 @@ export const en_US = {
     offline_storage: 'Offline storage',
     keep_it_in_a_safe_place_on_the_isolated_network: 'Keep it in a safe place on the isolated network. Do not share and store mnemonics in a networked environment, such as emails, photo albums, social network, messager, etc.',
     please_safely_back_up_the_Keystore: 'Please safely back up the Keystore',
-    do_not_save_to_email_notepad_web_chat_etc_It_is_very_dangerous_Please_don_use_network_transmission: 'Don\'t save to email, notepad, web, chat, etc. It's very dangerous. Please don't use network transmission.',
+    do_not_save_to_email_notepad_web_chat_etc_It_is_very_dangerous_Please_don_use_network_transmission: 'Don\'t save to email, notepad, web, chat, etc. It\'s very dangerous. Please don\'t use network transmission.',
     do_not_use_network_transmission: 'Do not use network transmission',
     Do_not_transmit_through_network_tools_once_acquired_by_hackers_will_cause_irreparable_asset_losses_It_is_recommended_that_the_offline_device_be_transmitted_by_scanning_the_QR_code: 'Do not transmit through network tools, once acquired by hackers will cause irreparable asset losses. It is recommended that the offline device be transmitted by scanning the QR code.',
     password_management_tool_save: 'Password management tool save',
